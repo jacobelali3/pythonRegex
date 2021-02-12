@@ -13,5 +13,8 @@ The menu will look like this
 4. Show all phrases
 5. Quit
 
+Run: python3 regex.py
+     python regex.py
+
 A number must be picked or it will prompt the user to try again. 
 To exit the program, cntrl+c or pressing the number 5 on your keyboard should work.
